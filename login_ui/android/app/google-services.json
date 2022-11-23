@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688181856017",
+    "project_id": "inicio-sesion-2022-3f35e",
+    "storage_bucket": "inicio-sesion-2022-3f35e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688181856017:android:4206a1a2f5cb624ba76eb0",
+        "android_client_info": {
+          "package_name": "com.sena.login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688181856017-r8nokj20vgsv2emmvr3ldajktpf5sved.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-YPffRjrDXn6WIjQwMB1OeQNluJJVYhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688181856017-r8nokj20vgsv2emmvr3ldajktpf5sved.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
