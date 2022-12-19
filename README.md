@@ -7,4 +7,4 @@ Este proyecto flutter se trata de un inicio de sesion, que fue enlazado con fire
   cloud_firestore: ^4.1.0  import 'package:cloud_firestore/cloud_firestore.dart';
   provider: ^6.0.4  
   
-  
+  en el repositorio les dejare un pdf con la serie de pasos para vincular el proyecto con firebase.
